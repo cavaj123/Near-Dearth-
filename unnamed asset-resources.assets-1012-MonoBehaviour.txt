@@ -16522,7 +16522,7 @@
      [0]
       1 string data = "Several items necessary for field observation work are spread out through the science facility. If you need to get ahold of any of these items, find them in their respective locations.\n\nExpedition Kit - being prepped in the Field Observation building.\n\nReid Glacier Map - in Data Processing for cross-checking last season's data.\n\nTurner Valley Map - in the Perishable Samples storage for annotating current sample collection locations.\n\nPlease update this manifest if you move these items. It's a pain to trudge to the wrong building and find out you need to go elsewhere."
      [1]
-      1 string data = "科研区中有一些实地考察工作所必须的道具，如果你需要找到这些道具的话，可以去以下地点。\n\n探险工具套件——在地形观测处。\n\n瑞德冰川地图——可以在“复核上个季节数据”的数据处理中心找到\n\n特纳山谷地图——在汇集了当前样本集合地的易腐样品存储室。\n\n如果你改变了这些物品的存放位置，请一定要对这个手册进行更新，否则其他人在寻找这些物品时就会遇到麻烦，毕竟在极寒地区的建筑之间进行移动是很困难的。"
+      1 string data = "科研区中有一些实地考察工作所必须的道具，如果你需要找到这些道具的话，可以去以下地点。\n\n探险工具套件——在地形观测室。\n\n瑞德冰川地图——可以在“复核上个季节数据”的数据处理中心找到\n\n特纳山谷地图——在汇集了当前样本集合地的易腐样品存储室。\n\n如果你改变了这些物品的存放位置，请一定要对这个手册进行更新，否则其他人在寻找这些物品时就会遇到麻烦，毕竟在极寒地区的建筑之间进行移动是很困难的。"
      [2]
       1 string data = "Das wissenschaftliche Zentrum (Science) beherbergt mehrere Gegenstände, die zur Feldforschung erforderlich sind. Solltest du einige dieser Gegenstände benötigen, dann findest du sie an den entsprechenden Orten innerhalb des Zentrums.\n\nExpeditionsausrüstung - steht im Naturbeobachtungsgebäude (Field Observation) bereit.\n\nReid Gletscher-Karte - befindet sich im Datenverarbeitungszentrum (Data Processing) zur Gegenprüfung der Datensätze mit den Daten der letzten Saison.\n\nTurner Tal-Karte - befindet sich im Lagerraum für verdorbene Proben (Perishable Samples) und wartet auf weitere Einträge zu den derzeitigen Probeentnahmestellen.\n\nSolltest du Gegenstände von ihrem Platz entfernen, dann aktualisiere bitte das Manifest entsprechend. Es ist mehr als ärgerlich, wenn man am falschen Gebäude ankommt und herausfindet, dass man trotz allem doch noch zu einem anderen Gebäude gehen muss."
      [3]
@@ -16757,7 +16757,7 @@
      [0]
       1 string data = "Snow Pants Liner Upgraded"
      [1]
-      1 string data = "雪裤衬垫已经升级"
+      1 string data = "雪裤衬垫已经装备"
      [2]
       1 string data = "Schneehosenfutter aufgerüstet"
      [3]
@@ -19342,7 +19342,7 @@
      [0]
       1 string data = "BAD NEWS: SUTRO DECOMMISSIONED. GOOD(ISH) NEWS: ONLY PHASE 1 COMPLETE. SOME SUPPLIES, ETC STILL ONSITE. ^1 WE'RE INVESTIGATING SEARCH & RESCUE OPTIONS. ^2 DECOM TEAM LEFT A GENERATOR RUNNING AT MIN CPCTY SO SYSTEM SHOULDN'T BE LOCKED UP. ^1 ADVISE LOCATING POWER BUILDING/GNRTRS & RESTORING MAIN POWER."
      [1]
-      1 string data = "坏消息：苏特罗站早已停止使用。 （相对的）好消息：该站的拆除过程只完成了第一阶段， 部分补给和工具尚未转移走。 ^1 我们正在研究搜寻援救的可行 性， ^2 拆迁队留下了一部发电机以维持该站基本的运作， ^1 建议你找出发电机建筑以恢复电力供应。"
+      1 string data = "坏消息：苏特罗站早已停止使用。 （相对的）好消息：该站的拆除过程只完成了第一阶段， 部分补给和工具尚未转移走。 ^1 我们正在研究搜寻援救的 可行性， ^2 拆迁队留下了一部发电机以维持该站基本的 运作， ^1 建议你找出发电机建筑以恢复电力供应。"
      [2]
       1 string data = "SCHLECHTE NACHRICHTEN: SUTRO STILLGELEGT. POSITIV: NUR PHASE 1 ABGESCHLOSSEN. EINIGE VORRÄTE, USW. NOCH VOR ORT. ^1 UNTERSUCHEN SUCH & RETTUNGSMÖGLICHKEITEN. ^2 STILLLEGUNGS-TEAM HAT 1 GENERATOR AUF MIN.-KPZTÄT GELASSEN - SYSTEM SOLLTE ZUGÄNGLICH SEIN. ^1 VORSCHLAG - LOKALISIERE KRAFTWERK & STELLE ENERGIEVERSORGUNG HER."
      [3]
@@ -21316,7 +21316,7 @@
      [0]
       1 string data = "PANTRY'S CLEANED OUT. ^1 THIS IS VERY DISTRESSING. ^1 NEED ENERGY, JACK. YOU KNOW HOW MANY CALORIES IT TAKES JUST TO BREATHE DOWN HERE. THERE A FOOD STASH SOMEWHERE ELSE?"
      [1]
-      1 string data = "贮藏室空空如也， ^1 真是让人绝望， ^1 杰克， 我真的需要能量，你知道在这里连呼吸都要消耗大量卡路 里吗？到底上哪去找食物呢？"
+      1 string data = "储藏室空空如也， ^1 真是让人绝望， ^1 杰克， 我真的需要能量，你知道在这里连呼吸都要消耗大量卡路 里吗？到底上哪去找食物呢？"
      [2]
       1 string data = "SPEISEKAMMER IST WIE LEERGEFEGT. ^1 DAS IST SEHR BEUNRUHIGEND. ^1 BRAUCHE ENERGIE, JACK. WEIßT DU WIE VIELE KALORIEN DAS ATMEN ALLEINE IN DIESER SCHNEEWÜSTE KOSTET?! GIBT ES WOANDERS NAHRUNGSMITTEL?"
      [3]
@@ -21645,7 +21645,7 @@
      [0]
       1 string data = "VEHICLES? ^1 HOLD. ^3 WELL. ^1 INVENTORY INDICATES CREW LEFT A SNOWCAT ONSITE FOR PHASE 2 HAULING. BUT! MACTOWN 225 MILES - WOULD NEVER MAKE THE TRIP."
      [1]
-      1 string data = "载具？ ^1 等等。 ^3 好吧。 ^1 库存清单显示拆 迁队在这里留下了一部雪地履带车以给第二阶段做准备。 可是！苹果镇离这里足有225英里啊——这路途太遥远 了。"
+      1 string data = "载具？ ^1 等等。 ^3 好吧。 ^1 库存清单显示拆 迁队在这里留下了一部雪地履带车以给第二阶段做准备。 可是！苹果镇离这里足有225英里啊——这路途太遥远了。"
      [2]
       1 string data = "FAHRZEUGE? ^1 MOMENT. ^3 ALSO. ^1 LAUT INVENTAR HAT DIE CREW EINEN SCHNEEPFLUG FÜR PHASE 2 ZURÜCKGELASSEN. ABER! MACTOWN, 360 KM - REISE IST UNMÖGLICH."
      [3]
@@ -21880,7 +21880,7 @@
      [0]
       1 string data = "ANTARCTICA TRYING HARDER THAN EVER TO KILL ME. JUST TOOK A FLIGHT. ^1 WITHOUT A PLANE. ^1 PANTRY CLEANED OUT. NO FOOD ONSITE. WEATHER WORSENING. WAS HEADING TO WATER, NOW BRIDGE IS OUT. ^1 I NEED OUT OF HERE! ^2 ANY VEHICLES ONSITE?"
      [1]
-      1 string data = "南极真是铁了心要我命啊，只是开个飞机， ^1 就坠机了； ^1 贮藏室空空如也，没有食物；气候在恶化， 去找点水，桥却断了。 ^1 我要离开这里啊啊啊！ ^2 这基地 有没有什么载具？"
+      1 string data = "南极真是铁了心要我命啊，只是开个飞机， ^1 就坠机了； ^1 储藏室空空如也，没有食物；气候在恶化， 去找点水，桥却断了。 ^1 我要离开这里啊啊啊！ ^2 这基地 有没有什么载具？"
      [2]
       1 string data = "ANTARKTIS ZIEHT SCHLINGE UM MEINEN HALS ENGER. BIN ABGESTÜRZT. ^1 GANZ OHNE FLUGZEUG. ^1 VORRATSKAMMER LEER. KEINE NAHRUNGSMITTEL. WETTER VERSCHLECHTERT SICH. WAR UNTERWEGS ZUR WASSERANLAGE, BRÜCKE IST WEG. ^1 MUSS RAUS HIER! ^2 IRGENDWELCHE FAHRZEUGE IRGENDWO?"
      [3]
@@ -22021,7 +22021,7 @@
      [0]
       1 string data = "GOT BACK TO THE HAB, CHECKED THE PANTRY. NO FOOD. THIS FEELS BAD, JACK. ^1 I NEED ANOTHER WAY. ANY VEHICLES?"
      [1]
-      1 string data = "返回到居住区了，查看过贮藏室，没有食物， 感觉很糟糕啊，杰克。 ^1 我需要想别的办法了，有载具吗 ？"
+      1 string data = "返回到居住区了，查看过储藏室，没有食物， 感觉很糟糕啊，杰克。 ^1 我需要想别的办法了，有载具吗 ？"
      [2]
       1 string data = "WAR IM HAB. VORRATSKAMMER ÜBERPRÜFT. KEINE NAHRUNGSMITTEL. SIEHT SCHLECHT AUS, JACK. ^1 MUSS ANDEREN WEG FINDEN. FAHRZEUGE IRGENDWO?"
      [3]
@@ -22209,7 +22209,7 @@
      [0]
       1 string data = "I’M HERE. THOUGH JUST BARELY. ANTARCTICA TRYING HARDER THAN EVER TO KILL ME. JUST TOOK A FLIGHT. ^1 WITHOUT A PLANE. ^2 PANTRY CLEANED OUT. NO FOOD ONSITE. WEATHER WORSENING. I NEED OUT OF HERE! ^2 ANY VEHICLES ONSITE?"
      [1]
-      1 string data = "我还在呢，快没命了，南极真是铁了心要我命 啊。只是开个飞机， ^1 就坠机了； ^2 贮藏室空空如也， 没有食物；气候在恶化，我要离开这里啊啊啊！ ^2 这基地 有没有什么载具？"
+      1 string data = "我还在呢，快没命了，南极真是铁了心要我命 啊。只是开个飞机， ^1 就坠机了； ^2 储藏室空空如也， 没有食物；气候在恶化，我要离开这里啊啊啊！ ^2 这基地 有没有什么载具？"
      [2]
       1 string data = "BIN NOCH DA. SO HALBWEGS. ANTARKTIS ZIEHT SCHLINGE UM MEINEN HALS ENGER. BIN ABGESTÜRZT. ^1 GANZ OHNE FLUGZEUG. ^2 VORRATSKAMMER LEER. KEINE NAHRUNSMITTEL. WETTER VERSCHLECHTERT SICH. MUSS RAUS HIER! ^2 IRGENDWELCHE FAHRZEUGE IRGENDWO?"
      [3]
